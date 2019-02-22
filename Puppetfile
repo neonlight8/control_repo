@@ -6,5 +6,5 @@ mod 'puppetlabs-docker'
 mod 'puppetlabs/apt'
 mod 'puppetlabs/translate'
 mod 'puppetlabs/powershell'
-mode'puppetlabs/reboot'
+mod 'puppetlabs/reboot'
 
