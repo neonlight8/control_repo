@@ -1,6 +1,6 @@
 node default {
 }
-node 'ip-10-0-0-216.ap-southeast-2.compute.internal' {
+node 'ec2-52-64-37-217.ap-southeast-2.compute.amazonaws.com' {
  include role::master_server
 }
 
